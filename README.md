@@ -174,8 +174,8 @@ model = load_model('models/mobilenet_model.h5')
 ## 🧠 Author
 
 **Samson Orodele**  
-MSc Data Science, Northumbria University  
 GitHub: [@SamsonOrodele](https://github.com/SamsonOrodele)
+Email: samorodele@gmail.com
 
 ---
 
